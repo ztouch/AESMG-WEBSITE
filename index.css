@@ -45,7 +45,7 @@
 
 #home{
 	background-image: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.6)),
-	url('Image/10.jpg');
+	url('10.jpg');
 	background-size: cover;
 	background-position: center;
 	color: #efefef !important;
@@ -173,7 +173,7 @@
 
 #promo{
 	background-image: linear-gradient(rgba(0,0,0,0.7), rgba(0,0,0,0.7)),
-	 url('Image/14.jpg');
+	 url('14.jpg');
 	 height: 120vh;
 	 background-size: cover;
 	 background-position: center;
